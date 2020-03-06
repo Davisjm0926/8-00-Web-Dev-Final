@@ -1,0 +1,13 @@
+html{
+    background-color: lightgreen;
+}
+body{
+    width: 500px;
+    margin: 20px auto;
+    padding: 20px;
+    border: solid;
+    background-color: lightblue;
+}
+table, th, td{
+    border: 1px solid black;
+}
