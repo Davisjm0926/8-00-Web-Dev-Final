@@ -31,12 +31,15 @@ table, th, td{
 
 .box {
     background-color: #800;
+    border: solid #000;
 }
 
 .box2 {
     background-color: #052;
+    border: solid #000;
 }
 
 .box3 {
     background-color: #90b;
+    border: solid #000;
 }
